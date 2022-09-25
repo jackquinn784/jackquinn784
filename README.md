@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jackquinn784
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Software Development in the Technological University of Shannon
+- 🌱 I’m currently learning Software Development in TUS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Email me - michael.quinn784@gmail.com
 
